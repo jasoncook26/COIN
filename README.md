@@ -1,0 +1,2 @@
+# COIN
+Coin generation
